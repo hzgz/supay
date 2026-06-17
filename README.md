@@ -113,3 +113,4 @@ docker compose up -d --build backend
 端口冲突：
 
 若宿主机 80、8080、3306、6379 已被占用，请修改 docker-compose.yml 中的 ports 映射为其他端口，例如 `"8081:8080"。
+<img width="1902" height="875" alt="image" src="https://github.com/user-attachments/assets/936271a2-aec2-440a-8c1f-15e1401f619b" />
